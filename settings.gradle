@@ -1,0 +1,2 @@
+rootProject.name='MultiActivityDemo'
+include ':app'
